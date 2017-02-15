@@ -1,4 +1,4 @@
 # iPhoneAlbum
 iPhone Album
 
-test for showing iphone album images in collection view.
+Test for showing iphone album images in collection view.
