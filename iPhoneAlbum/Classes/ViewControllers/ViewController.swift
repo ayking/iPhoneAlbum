@@ -12,7 +12,7 @@ import Photos
 class ViewController: UIViewController {
     
     fileprivate let Spacing = CGFloat(0.5)
-    fileprivate let Column = CGFloat(4)
+    fileprivate let Column = CGFloat(3)
     
     fileprivate var PhotoWidth = CGFloat(0)
     fileprivate var assetList = [PHAsset]()
